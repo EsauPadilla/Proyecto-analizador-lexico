@@ -1,0 +1,11 @@
+class Ejemplo {
+	float Cuenta, Numero, Resultado;
+	int Num, cons = 23;
+
+	read (Num);
+
+	Cuenta = 23 + (Numero – Num);
+	Numero = Cuenta * 123.99;
+	Resultado = Numero+Cuenta;
+	write(Reultado);
+} 
